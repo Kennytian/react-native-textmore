@@ -69,7 +69,6 @@ export default class TextMore extends Component {
         this.setState({isShowMore: true});
       }
     }
-
   }
 }
 
