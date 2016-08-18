@@ -13,8 +13,10 @@
 <TextMore contentLines={4} contentText={'map 方法会给原数组中的每个元素都按顺序调用一次 callback 函数。callback 每次执行后的返回值组合起来形成一个新数组。 callback 函数只会在有值的索引上被调用；那些从来没被赋过值或者使用 delete 删除的索引则不会被调用。'} />
 ```
 
+https://github.com/Kennytian/react-native-textmore/blob/master/examples/launcher.js
+
 ### Run Example:
 Clone this repository from Github and cd to 'examples' directory then run `npm install`.
 
 ### Screenshot:
-![屏幕截图](https://raw.githubusercontent.com/Kennytian/learning-react-native/master/screenshot1.png)
+![屏幕截图](https://github.com/Kennytian/react-native-textmore/blob/master/screenshot1.png)
