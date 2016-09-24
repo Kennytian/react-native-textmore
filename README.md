@@ -1,15 +1,12 @@
 # react-native-textmore
 
-[![Build Status](https://travis-ci.org/Kennytian/react-native-textmore.svg)](https://travis-ci.org/Kennytian/react-native-textmore)
 [![npm version](http://img.shields.io/npm/v/react-native-textmore.svg?style=flat-square)](https://npmjs.org/package/react-native-textmore "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-textmore.svg?style=flat-square)](https://npmjs.org/package/react-native-textmore "View this project on npm")
-[![Issue Stats](http://issuestats.com/github/Kennytian/react-native-textmore/badge/pr?style=flat-square)](https://github.com/Kennytian/react-native-textmore/pulls?q=is%3Apr+is%3Aclosed)
-[![Issue Stats](http://issuestats.com/github/Kennytian/react-native-textmore/badge/issue?style=flat-square)](https://github.com/Kennytian/react-native-textmore/issues?q=is%3Aissue+is%3Aclosed)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 ### Install
 
-`npm install react-native-textmore`
+`npm install react-native-textmore --save`
 
 ### Usage:
 ```
@@ -26,4 +23,4 @@ https://github.com/Kennytian/react-native-textmore/blob/master/examples/launcher
 Clone this repository from Github and cd to 'examples' directory then run `npm install`.
 
 ### Screenshot:
-![屏幕截图](https://github.com/Kennytian/react-native-textmore/blob/master/screenshot1.png)
+![屏幕截图](http://ww2.sinaimg.cn/mw690/77c29b23gw1f84xu9ue6oj20fm0t0wh1.jpg)
