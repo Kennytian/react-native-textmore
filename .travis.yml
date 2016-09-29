@@ -16,5 +16,5 @@ script:
   - npm install -g react-native-cli
   - react-native init TextMoreDemo
   - cd TextMoreDemo
-  - npm install react-native-instabug --save
+  - npm install react-native-textmore --save
   - react-native link
