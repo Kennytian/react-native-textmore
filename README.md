@@ -1,8 +1,10 @@
 # react-native-textmore
 
+[![Build Status](https://travis-ci.org/Kennytian/react-native-textmore.svg?branch=master)](https://travis-ci.org/Kennytian/react-native-textmore)
 [![npm version](http://img.shields.io/npm/v/react-native-textmore.svg?style=flat-square)](https://npmjs.org/package/react-native-textmore "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-textmore.svg?style=flat-square)](https://npmjs.org/package/react-native-textmore "View this project on npm")
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+
 
 ### Install
 
